@@ -17,12 +17,12 @@ See [Vite Configuration Reference](https://vitejs.dev/config/).
 npm install
 ```
 
-## #Compile and Hot-Reload for Development
+## Compile and Hot-Reload for Development
 
 ```sh
 npm run dev
 ```
-#Expense Tracker
+# Expense Tracker
 
 Welcome to the Expense Tracker portal! This template is designed to kickstart your development with Vue 3 in Vite, allowing you to efficiently manage your expenses.
 
